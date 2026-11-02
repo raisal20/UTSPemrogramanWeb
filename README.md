@@ -18,10 +18,9 @@ BOOKSPACE-UTS-Pemrograman-Web/
 ```
 
 ## Cara menjalankan
-1. Ekstrak file ZIP.
-2. Buka folder project di Visual Studio Code.
-3. Jalankan `login.html` dengan ekstensi Live Server (klik kanan → Open with Live Server). Bisa juga membuka file `login.html` langsung di browser.
-4. Login dengan akun demo:
+1. Buka folder project di Visual Studio Code.
+2. Jalankan `login.html` dengan ekstensi Live Server (klik kanan → Open with Live Server). Bisa juga membuka file `login.html` langsung di browser.
+3. Login dengan akun demo:
    - Email: `admin@bookspace.com`
    - Password: `123456`
 
